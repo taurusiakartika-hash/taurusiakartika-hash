@@ -10,3 +10,5 @@ Saya sedang belajar di bidang Data Analyst dan Business Intelligence Analyst.
 
  # Proyek:
  Saya sedang belajar dan mengerjakan tugas yang diberikan untuk mengasah kemampuan.
+ Contoh proyek saya:
+ 1. https://github.com/taurusiakartika-hash/Analisis-Tren-Penjualan-ECommerce-dan-Performa-Produk-SQL-Portfolio
